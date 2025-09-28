@@ -33,13 +33,13 @@
     "tsup": "^8.4.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3",
-    "vite": "^7.1.4",
+    "vite": "^7.1.5",
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^3.0.5"
   },
   "dependencies": {
     "@coinbase/cdp-sdk": "^1.22.0",
-    "next": "^15.4.7",
+    "next": "^15.5.4",
     "viem": "^2.21.26",
     "x402": "workspace:^",
     "zod": "^3.24.2"
